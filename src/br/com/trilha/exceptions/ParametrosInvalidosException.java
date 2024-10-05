@@ -1,3 +1,5 @@
+package br.com.trilha.exceptions;
+
 public class ParametrosInvalidosException extends RuntimeException {
 
     public ParametrosInvalidosException(String mensagem, Throwable ex) {

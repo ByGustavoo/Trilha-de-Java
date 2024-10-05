@@ -1,3 +1,7 @@
+package br.com.trilha.classes;
+
+import br.com.trilha.exceptions.ParametrosInvalidosException;
+
 import java.util.Scanner;
 
 public class Contador {
