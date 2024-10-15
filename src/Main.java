@@ -1,4 +1,4 @@
-import br.com.trilha.classes.Iphone;
+import br.com.dio.java.collections.classes.Iphone;
 
 public class Main {
     public static void main(String[] args) {

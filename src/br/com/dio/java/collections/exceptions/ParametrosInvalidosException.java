@@ -1,4 +1,4 @@
-package br.com.trilha.exceptions;
+package br.com.dio.java.collections.exceptions;
 
 public class ParametrosInvalidosException extends RuntimeException {
 

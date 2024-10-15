@@ -1,4 +1,4 @@
-package br.com.trilha.classes;
+package br.com.dio.java.collections.classes;
 
 import java.util.Scanner;
 

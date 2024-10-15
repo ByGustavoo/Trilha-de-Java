@@ -1,4 +1,4 @@
-package br.com.trilha.model;
+package br.com.dio.java.collections.model;
 
 public interface AparelhoTelefonico {
 

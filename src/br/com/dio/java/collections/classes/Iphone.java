@@ -1,8 +1,8 @@
-package br.com.trilha.classes;
+package br.com.dio.java.collections.classes;
 
-import br.com.trilha.model.AparelhoTelefonico;
-import br.com.trilha.model.NavegadorInternet;
-import br.com.trilha.model.ReprodutorMusical;
+import br.com.dio.java.collections.model.AparelhoTelefonico;
+import br.com.dio.java.collections.model.NavegadorInternet;
+import br.com.dio.java.collections.model.ReprodutorMusical;
 
 public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
 

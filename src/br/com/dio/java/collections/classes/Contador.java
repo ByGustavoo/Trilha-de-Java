@@ -1,6 +1,6 @@
-package br.com.trilha.classes;
+package br.com.dio.java.collections.classes;
 
-import br.com.trilha.exceptions.ParametrosInvalidosException;
+import br.com.dio.java.collections.exceptions.ParametrosInvalidosException;
 
 import java.util.Scanner;
 
